@@ -1,0 +1,1 @@
+Maybe from mik plus one or Gene Kims podcast. Definitely the interview with Michael Nygaard.
