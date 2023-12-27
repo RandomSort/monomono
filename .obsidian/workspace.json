@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "420fe8d58016a64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unfiltered/2023-12-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unfiltered/2023-12-19.md",
+                "file": "Unfiltered/2023-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unfiltered/2023-12-19.md",
+                "file": "Unfiltered/2023-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unfiltered/2023-12-19.md"
+                "file": "Unfiltered/2023-12-20.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea972eb9264cf586",
+  "active": "420fe8d58016a64e",
   "lastOpenFiles": [
-    "References/Shu Ha Ri.md",
     "Unfiltered/2023-12-19.md",
+    "Unfiltered/2023-12-20.md",
+    "Unfiltered/Untitled",
+    "References/Shu Ha Ri.md",
     "README.md",
     "References/Structure and Dynamics.md",
     "References/Alignment Trap.md",
